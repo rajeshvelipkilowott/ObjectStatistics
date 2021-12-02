@@ -1,0 +1,15 @@
+C:\Users\viju\source\repos\NewResult\NewResult\bin\Debug\net6.0\NewResult.exe
+C:\Users\viju\source\repos\NewResult\NewResult\bin\Debug\net6.0\NewResult.deps.json
+C:\Users\viju\source\repos\NewResult\NewResult\bin\Debug\net6.0\NewResult.runtimeconfig.json
+C:\Users\viju\source\repos\NewResult\NewResult\bin\Debug\net6.0\NewResult.dll
+C:\Users\viju\source\repos\NewResult\NewResult\bin\Debug\net6.0\ref\NewResult.dll
+C:\Users\viju\source\repos\NewResult\NewResult\bin\Debug\net6.0\NewResult.pdb
+C:\Users\viju\source\repos\NewResult\NewResult\obj\Debug\net6.0\NewResult.csproj.AssemblyReference.cache
+C:\Users\viju\source\repos\NewResult\NewResult\obj\Debug\net6.0\NewResult.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viju\source\repos\NewResult\NewResult\obj\Debug\net6.0\NewResult.AssemblyInfoInputs.cache
+C:\Users\viju\source\repos\NewResult\NewResult\obj\Debug\net6.0\NewResult.AssemblyInfo.cs
+C:\Users\viju\source\repos\NewResult\NewResult\obj\Debug\net6.0\NewResult.csproj.CoreCompileInputs.cache
+C:\Users\viju\source\repos\NewResult\NewResult\obj\Debug\net6.0\NewResult.dll
+C:\Users\viju\source\repos\NewResult\NewResult\obj\Debug\net6.0\ref\NewResult.dll
+C:\Users\viju\source\repos\NewResult\NewResult\obj\Debug\net6.0\NewResult.pdb
+C:\Users\viju\source\repos\NewResult\NewResult\obj\Debug\net6.0\NewResult.genruntimeconfig.cache
